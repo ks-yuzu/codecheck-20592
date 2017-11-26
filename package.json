@@ -1,0 +1,13 @@
+{
+  "name": "challenge-sql",
+  "version": "1.0.0",
+  "description": "Sample challenge with SQL",
+  "author": "Givery",
+  "main": "app/main.js",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "knex": "^0.8.6",
+    "sqlite3": "^3.1.0"
+  },
+  "devDependencies": {}
+}
